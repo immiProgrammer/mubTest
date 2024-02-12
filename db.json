@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "name": "immi",
+            "type": "programmer",
+            "socials": {
+                "instagram": "https",
+                "youtube": "https",
+                "facebook": "https"
+            },
+            "pic": "/background.png"
+        }
+    ]
+}
